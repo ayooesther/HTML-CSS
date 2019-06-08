@@ -1,0 +1,16 @@
+
+.my-stuff{
+	width:700px;
+	margin:30%;
+}
+
+.panel{
+	
+	width: 700px;
+	height:150px;
+	padding:40px;
+	margin: 10px,5px;
+	border: 8px solid pink;
+	background-color: blue;
+	color:black;
+}
