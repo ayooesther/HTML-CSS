@@ -1,0 +1,125 @@
+
+
+body{
+width: 100%
+background-color: #f2f4f7;
+
+}
+.car{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+.txt {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.box{
+border: 1px solid green ;
+}
+
+.content{
+width: cover;
+height: 10px;
+background-color: black;
+list-style: none;
+padding: 30px;
+
+}
+a{
+text-decoration-line: none;
+color: white;
+padding-right: 20px;
+float: right;
+}
+.rat {
+width: 30px;
+height: 30px;
+background-color: grey;
+font-size: 20px;
+padding-top: 8px;
+}
+.rat h2{
+padding-bottom : 15px;
+}
+
+
+.first a:hover{
+color: green;
+}
+.second{
+column-count: 3;
+padding: 30px;
+padding-right: 20px;
+background-color: white;
+}
+.about{
+float: right;
+width: 800px;
+
+
+}
+
+.side{
+	float: right;
+	width: 750px;
+	column-count: 2;
+	padding: 20px;
+	
+
+}
+.skills{
+  padding: 20px;
+  width: 100%;
+  background-color: white;
+   
+}
+.contact{
+  color: : green;
+  padding : 20px;
+  padding-bottom: 4px;
+
+}
+.row1{
+  background-color: green;
+  width: 400px;
+  height: 18px;
+  text-align: right;
+  color: white;
+
+}
+.row2{
+  background-color: green;
+  width: 400px;
+  height: 18px;
+  text-align: right;
+  color: white;
+
+}
+.row3{
+  background-color: green;
+  width: 400px;
+  height: 18px;
+  text-align: right;
+  color: white;
+}
+.row4{
+  background-color: green;
+  width: 400px;
+  height: 18px;
+  text-align: right;
+  color: white;
+}
+.rows{
+  float: right;
+}
